@@ -1,0 +1,30 @@
+{
+  "name": "github-action-ci-cd-yaml",
+  "version": "1.0.0",
+  "description": "GitHub Action and CI/CD Course Project-YAML",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo \"No build step needed\"",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ok-Sere/GitHub-Action-CI-CD-YAML.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ok-Sere/GitHub-Action-CI-CD-YAML/issues"
+  },
+  "homepage": "https://github.com/Ok-Sere/GitHub-Action-CI-CD-YAML#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.30.0",
+    "eslint": "^9.30.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.2.0",
+    "jest": "^30.0.2"
+  }
+}
